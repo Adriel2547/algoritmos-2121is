@@ -1,0 +1,35 @@
+<script>
+//imprimir numeros digitales
+var i = 1.5
+while(i <= 10){;
+console.log(i);
+i++
+}
+//ejercicio 3 imprimir los digitos entre 100 y 199
+var o= 100
+while(o <= 199){
+  console.log(o);
+  o++;
+}
+
+
+     //imprimir los numeros entre el 5 y el 20, saltando de 3 en 3
+   var m = 5
+   while(m <= 20){;
+      console.log(m);
+    m=m+3;
+  }
+ 
+  // Ejercicio 4
+  var num = parseInt(prompt("ingrese un numero"))
+   if(num>0);
+   doblemenosuno = num + num - 1
+   console.log(" el doble es", doblemenosuno );
+   while(num <= doblemenosuno){;
+   console.log(num);
+   num++;
+   };
+
+
+</script>
+
